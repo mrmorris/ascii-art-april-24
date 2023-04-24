@@ -6,6 +6,5 @@ Please see the [Readme](./readme.md) for more details.
 
 ----
 
-* [New file](./new-file)
+* [Batman](./the-dark-knight.md)
 * [Garfield](./garfield.md)
-* [New file](./new-file)
