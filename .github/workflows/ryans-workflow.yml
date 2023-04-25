@@ -31,14 +31,7 @@ jobs:
 
       - name: Say hello
         run: echo "Hello!"
-        
-  cat:
-    runs-on: ubuntu-latest
+
     
-    steps:
-      - name: Action Cats
-        # You may pin to the exact commit or the version.
-        # uses: ruairidhwm/action-cats@309530f7a011f12e0359514d2c1bb9cef114dd41
-        uses: ruairidhwm/action-cats@1.0.2
         
       
